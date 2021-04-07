@@ -5,7 +5,8 @@
         beq 	$t1, 	$zero, 	SUCC	# if we have an empty string, it’s palindrome
         jal	CNT			# else we want to count the string length
 	add 	$t3, 	$zero, 	$zero	# t3 used as l and initialization l=0
-	addi 	$t2, 	$t2, 	-1	# t2 is strlen and used as h=strlen(s)-1		
+	addi 	$t2, 	$t2, 	-1	# t2 is strlen and used as h=strlen(s)-1
+	j       LOOP		
 LOOP:   slt 	$t4, 	$t3, 	$t2	# t4=1, if l<h, meaning the LOOP should go on
 	beq 	$t4, 	$zero, 	SUCC	# if t4=0, l>=h, so we are done with success
 	add 	$t5, 	$t3, 	$a0	# t5=s[l] (a0[l])
