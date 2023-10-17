@@ -2,6 +2,10 @@
 
 Lab Assignments for the [Computer Architecture](https://www.ece.ntua.gr/en/undergraduate/courses/3357) course, during the 5th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
+## Lab Assignments
+
+There were 4 Lab Assignments in total, aiming to provide a comprehensive exploration of fundamental concepts in computer architecture. These hands-on experiences will deepen the understanding of the inner workings of computer systems, from the low-level hardware details to memory management strategies of modern computing.
+
 ## Lab 01 - Assembly MIPS
 
 This lab was about becoming familiar and working with MIPS Assembly by creating various routines. To implement these routines MIPS emulator like [MILE](http://www.cslab.ece.ntua.gr/courses/comparch/assign.go) can be used. In this emulator, MIPS assembly can be executed while monitoring the contents of registers and memory, thus making it easier to develop and test the required code.
