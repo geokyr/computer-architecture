@@ -4,7 +4,7 @@ Lab Assignments for the [Computer Architecture](https://www.ece.ntua.gr/en/under
 
 ## Lab Assignments
 
-There were 4 Lab Assignments in total, aiming to provide a comprehensive exploration of fundamental concepts in computer architecture. These hands-on experiences will deepen the understanding of the inner workings of computer systems, from the low-level hardware details to memory management strategies of modern computing.
+There were 4 lab assignments in total, aiming to provide a comprehensive exploration of fundamental concepts in computer architecture. These hands-on experiences will deepen the understanding of the inner workings of computer systems, from the low-level hardware details to memory management strategies of modern computing.
 
 ## Lab 01 - Assembly MIPS
 
