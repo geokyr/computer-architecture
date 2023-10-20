@@ -4,7 +4,7 @@ Analytical Assignments for the [Computer Architecture](https://www.ece.ntua.gr/e
 
 ## Analytical Assignments
 
-There were 4 analytical assignments in total, aiming to provide a comprehensive exploration of fundamental concepts in computer architecture. These hands-on experiences will deepen the understanding of the inner workings of computer systems, from the low-level hardware details to memory management strategies of modern computing.
+There were 4 analytical assignments in total, aiming to provide a comprehensive exploration of fundamental concepts in computer architecture. These assignments will deepen the understanding of the inner workings of computer systems, from the low-level hardware details to memory management strategies of modern computing.
 
 ## Analytical 01 - Assembly MIPS
 
