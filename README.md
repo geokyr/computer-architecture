@@ -1,4 +1,4 @@
-# ece-ntua-computer-architecture
+# computer-architecture
 
 Analytical Assignments for the [Computer Architecture](https://www.ece.ntua.gr/en/undergraduate/courses/3357) course, during the 5th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
